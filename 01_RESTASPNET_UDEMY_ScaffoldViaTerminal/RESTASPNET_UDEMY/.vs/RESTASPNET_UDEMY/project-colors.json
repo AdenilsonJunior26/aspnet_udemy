@@ -1,5 +1,11 @@
 {
   "Version": 1,
-  "ProjectMap": {},
-  "NextColorIndex": 0
+  "ProjectMap": {
+    "3454d6ac-0f2f-4c44-904a-64ba214d3f63": {
+      "ProjectGuid": "3454d6ac-0f2f-4c44-904a-64ba214d3f63",
+      "DisplayName": "RESTASPNET_UDEMY",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
 }
